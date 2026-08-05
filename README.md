@@ -1,4 +1,4 @@
-# Привет! Вас приветствует Чибанов Матвей 👋
+# Привет! Я Матвей Чибанов 👋
 
 <p align="center">
   <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
@@ -20,27 +20,6 @@
 Имею опыт самостоятельной разработки и публикации страниц для государственных учреждений. Умею работать как с классическим веб-интерфейсом, так и с нетривиальными задачами: рендеринг графики через **Pixi.js**, **Skia CanvasKit** и экспорт в PDF через **WebAssembly**.
 
 🎯 **Сейчас в поиске работы или оплачиваемой стажировки** в компании, где смогу применять и развивать свои навыки.
-
----
-
-## 🔭 Мои проекты
-
-Здесь собраны мои ключевые работы, демонстрирующие навыки работы с TypeScript, React и графикой.
-
-### [Stellar Burgers](https://github.com/ChibanovMT/stellar-burgers) 🍔
-Веб-приложение для формирования и оформления заказов.
-- **Реализовано:** Получение данных через REST API, авторизация, защищённые маршруты, управление состоянием (Redux Toolkit).
-- **Стек:** React, TypeScript, Redux Toolkit, React Router.
-
-### [Web-Larёk](https://github.com/ChibanovMT/weblarek) 🛒
-Интернет-магазин с каталогом, корзиной и оформлением заказа.
-- **Реализовано:** Структурирование приложения по архитектуре MVP, событийное взаимодействие между компонентами.
-- **Стек:** TypeScript, HTML5, SCSS, Vite.
-
-### [Test for sBoard.online](https://github.com/ChibanovMT/Test-for-sBoard.online) 🎨
-Интерактивное графическое приложение.
-- **Реализовано:** Рендеринг сцены через Pixi.js, дублирование в Skia CanvasKit, экспорт в векторный PDF через WebAssembly.
-- **Стек:** TypeScript, Pixi.js, Skia CanvasKit, WebAssembly, Vite.
 
 ---
 
