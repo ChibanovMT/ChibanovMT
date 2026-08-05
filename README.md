@@ -12,6 +12,16 @@
 
 ---
 
+## 🥋 CodeWars
+
+<p align="center">
+  <a href="https://www.codewars.com/users/chibanovmt">
+    <img src="https://github.r2v.ch/codewars?user=chibanovmt&theme=dark&top_languages=true" />
+  </a>
+</p>
+
+---
+
 ## 👨‍💻 Обо мне
 
 Я **Frontend-разработчик** (Junior) с опытом создания адаптивных веб-интерфейсов.  
@@ -58,9 +68,3 @@
 За две недели разработал прототип системы идентификации и аутентификации для государственных приложений (ФКУ «СОЦТЕХ») на React. Проект был запущен в работу, а страница до сих пор доступна на [mintrud.gov.ru](https://mintrud.gov.ru/obrazovanie/).
 
 ---
-
-## 📊 Статистика
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChibanovMT&theme=dark" />
-</p>
