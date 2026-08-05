@@ -9,11 +9,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white" />
 </p>
-
----
-
-## 🥋 CodeWars
-
 <p align="center">
   <img src="https://www.codewars.com/users/ChibanovMT/badges/large" />
 </p>
