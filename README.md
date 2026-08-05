@@ -62,6 +62,6 @@
 ## 📊 Статистика
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChibanovMT&show_icons=true&theme=dark&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ChibanovMT&show_icons=true&theme=dark&hide_title=true&count_private=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChibanovMT&layout=compact&theme=dark&hide_title=true" />
 </p>
