@@ -15,7 +15,7 @@
 ## 🥋 CodeWars
 
 <p align="center">
-  <img src="https://github.r2v.ch/codewars?user=ChibanovMT&theme=dark&top_languages=true" />
+  <img src="https://github.r2v.ch/codewars?user=ChibanovMT&theme=dark" />
 </p>
 
 ---
