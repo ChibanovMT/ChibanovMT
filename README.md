@@ -15,9 +15,7 @@
 ## 🥋 CodeWars
 
 <p align="center">
-  <a href="[https://www.codewars.com/users/chibanovmt](https://www.codewars.com/users/ChibanovMT/badges/large)">
-    <img src="https://github.r2v.ch/codewars?user=chibanovmt&theme=dark&top_languages=true" />
-  </a>
+  <img src="https://github.r2v.ch/codewars?user=ChibanovMT&theme=dark&top_languages=true" />
 </p>
 
 ---
